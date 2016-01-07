@@ -2,3 +2,8 @@ body {
     max-width: 100%;
     
 }
+
+nav #nav {
+    width: 440px;
+    background-color: #83D8D8;
+}
