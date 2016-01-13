@@ -25,7 +25,7 @@ html, body {
          height:120%;
          position:fixed;
          top:0;
-         left:-250px;
+         right:0px;
          text-align:left;
          transition: all 0.3s;
          padding: 10px 15px;
