@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="76px" height="77px" viewBox="0 0 76 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.3 (16618) - http://www.bohemiancoding.com/sketch -->
+    <title>Search_icon_mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="MobileDesign02-01-Copy-2" sketch:type="MSArtboardGroup" transform="translate(-524.000000, -283.000000)" fill="#83D8D8">
+            <path d="M580.907424,312.220033 C580.907424,296.506799 568.167416,283.766165 552.453868,283.766165 C536.740634,283.766165 524,296.506799 524,312.220033 C524,327.933268 536.740634,340.673276 552.453868,340.673276 C568.167416,340.673276 580.907424,327.933268 580.907424,312.220033 L580.907424,312.220033 Z M552.453868,333.559614 C540.686066,333.559614 531.113663,323.987992 531.113663,312.22019 C531.113663,300.452387 540.686066,290.879984 552.453868,290.879984 C564.221358,290.879984 573.794543,300.452387 573.794543,312.22019 C573.794543,323.987992 564.221358,333.559614 552.453868,333.559614 Z M597.792091,347.500922 L580.384807,330.092231 C577.791111,334.126017 574.358601,337.556807 570.324815,340.150659 L587.733506,357.55935 C590.512667,360.337885 595.018716,360.337885 597.791934,357.55935 C600.571251,354.78535 600.571251,350.279301 597.792091,347.500922 Z" id="Search_icon" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
