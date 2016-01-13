@@ -1,4 +1,4 @@
-@media (max-width:700px) {
+
         html, body {
             display: block;
             overflow:hidden;
@@ -250,5 +250,4 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', end
             z-index: 20;
             margin-top:5px;
             text-shadow: 0 0 3px #333;
-        }
-    }
+}
