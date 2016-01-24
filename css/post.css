@@ -1,0 +1,292 @@
+
+  
+  <!-------------------- post ctyle -------------------->
+
+  .Author {
+      display:block !important;
+      width:100%;
+      margin:40px 0;
+      text-align:center;
+  }
+  
+  .Author h3 {
+      padding-bottom:4px;
+      border-bottom: 1px solid;
+      display:inline-block;
+      width:100%;
+      margin:10px 0;
+  }
+  
+  .AuthImg {
+      display:block;
+      width:50px;
+      height:50px;
+      margin:0 auto;
+      border-radius:50%;
+      background-size: cover;
+      
+  }
+  
+  .Autor p {
+      width: 40%;
+      text-align:left;
+      display:block;
+      margin:10px 0;
+  }
+  
+  @media (max-width: 670px) {
+      
+      body {
+          height:100%;
+      }
+      
+      .blog-title {
+          display:none;
+      }
+      
+      .jp_title {
+          display:none!important;
+      }
+      .about_button {
+          display:none;
+      }
+      
+      #header {
+          padding:0;
+          height:50px;
+      }
+      
+      .post {
+          height:100%;
+          width:100%;
+          padding:0;
+          
+      }
+      
+      #main {
+          height:100%;
+      }
+      
+      .article_inner {
+          display:block;
+          position:relative;
+          padding:0px 0px;
+          width:100%;
+          border:0px;
+      }
+      
+      
+      .entry-header {
+          position:relative;
+          height:260px;
+          box-sizing:border-box;
+          padding:20px 0;
+      }
+      
+      .entry-title {
+          display:block;
+          margin:5px 0;
+          height:auto;
+      }
+      
+      .entry-title a {
+          margin-bottom:10px;
+      }
+      .eh-shadow {
+          position:absolute;
+          width:100%;
+          height:260px;
+          background:#000;
+          opacity:0.5;
+          top:0px;
+      }
+      
+      .entry-content {
+          padding:10px 15px;
+          text-align:left;
+          line-height:1.6em;
+          margin:20px 0 40px 0;
+      }
+      
+      .entry-content img{
+          text-align:center;
+          display:block;
+          margin:0 auto;
+          padding:10px 0;
+          max-width:100%;
+          min-width:auto;
+          height:auto;
+      }
+      
+      .entry-footer {
+          display:none;
+      }
+      
+      .gradation {
+         display: none;
+      }
+      
+      .pagenation {
+          display:none;
+      }
+      .hastags {
+        position:relative;
+        width:100%;
+        height:80px;
+          
+      }
+      
+      .hastags a {
+          bottom:0px;
+      }
+      
+      
+      
+      #footer {
+          position:relative;
+          text-align:center;
+      }
+  }
+  
+  /* ----------------------- pc style about post ------------------- */
+  
+  @media (min-width: 671px) {
+      body {
+          height:100%;
+      }
+      
+      .about_button {
+          display:none;
+      }
+      
+      
+      
+      #header {
+          display:none;
+      }
+      
+      .post {
+          height:100%;
+          width:100%;
+          padding:0;
+          
+      }
+      
+      #main {
+          height:100%;
+      }
+      
+      .article_inner {
+          display:block;
+          position:relative;
+          padding:0px 0px;
+          width:100%;
+          border:0px;
+      }
+      
+      
+      .entry-header {
+          position:relative;
+          height:260px;
+          box-sizing:border-box;
+          padding:35px 0;
+          background-size: cover;
+      }
+      
+      .entry_icon {
+          display:block;
+          margin:0 auto;
+      }
+      
+      .entry-title {
+          width:80%;
+          height:80px;
+          margin:0 auto;
+          padding:5px 0;
+          text-align:center;
+      }
+      
+      .entry-title a {
+          text-align:center;
+          margin:0;
+      }
+      .eh-shadow {
+          position:absolute;
+          width:100%;
+          height:260px;
+          background:#000;
+          opacity:0.5;
+          top:0px;
+      }
+      
+      .entry-content {
+          padding:40px 15px;
+          text-align:left;
+          line-height:1.6em;
+          margin:0 auto;
+          max-width:640px;
+      }
+      
+      .entry-content img{
+          text-align:center;
+          display:block;
+          margin:0 auto;
+          padding:10px 0;
+          min-width:auto;
+          max-width:100%;
+          height:auto;
+      }
+      
+      
+      
+      
+      .entry-footer {
+          display:none;
+      }
+      
+      .gradation {
+         display: none;
+      }
+      
+      .pagenation {
+          display:none;
+      }
+      .hastags {
+          position:relative;
+        width:100%;
+        height:80px;
+          
+      }
+      
+      .artist_icon {
+          display:block;
+          margin: 0 auto;
+      }
+      
+      .hastags a {
+          position:static;
+            text-align:center;
+            display:block;
+            color:#F2F2F2;
+            width:100px;
+            font-weight:normal;
+            font-family:Helvetica,sans-serif;
+            text-decoration: none;
+            left:0;
+            /*z-index: 20;*/
+            margin:0 auto;
+            padding-top:10px;
+            text-shadow: 0 0 3px #333;
+        }
+      
+      
+      
+      #footer {
+          position:relative;
+          text-align:center;
+      }
+      #footer {
+          padding-left: 200px;
+      }
+  }
+     
