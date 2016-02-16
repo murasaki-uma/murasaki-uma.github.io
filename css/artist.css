@@ -1,9 +1,7 @@
   /* ------------------- artist mobile style -------------------*/
   
 h2.tagged{
-    text-align: center;
-    font-weight: normal;
-    padding: 10px 0;
+    display:none!important;
 }
   .blog-title {
         display:none;
