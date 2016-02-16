@@ -187,3 +187,7 @@
         opacity:0.3;
     }
 }
+
+.artist_icon {
+    display: none;
+}
