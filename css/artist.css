@@ -110,6 +110,11 @@
     .entry-content {
         text-align:center;
     }
+      
+    .article_inner_bg {
+        background:#000;
+        opacity:0.3;
+    }
     
   }
   
