@@ -146,6 +146,11 @@
           position:relative;
           text-align:center;
       }
+      
+      .caption {
+        font-size:0.8em;
+        text-align:center;
+    }
   }
   
   /* ----------------------- pc style about post ------------------- */
@@ -287,5 +292,10 @@
       #footer {
           padding-left: 200px;
       }
+      
+      .caption {
+        font-size:0.8em;
+        text-align:left;
+    }
   }
      
