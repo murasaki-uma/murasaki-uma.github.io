@@ -228,7 +228,7 @@
       }
       
       .entry-content img{
-          text-align:center;
+          text-align:left;
           display:block;
           padding:10px 0;
           min-width:auto;
